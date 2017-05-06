@@ -1,0 +1,15 @@
+{
+  "name": "auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Hofferber",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "jwt-simple": "^0.3.0",
+    "stack-trace": "0.0.9"
+  }
+}

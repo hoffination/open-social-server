@@ -1,0 +1,17 @@
+{
+  "name": "event",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Hofferber",
+  "dependencies": {
+    "aws-sdk": "^2.2.35",
+    "cors": "^2.7.1",
+    "express": "~4.12.2",
+    "rethinkdbdash": "^2.2.18",
+    "stack-trace": "0.0.9"
+  }
+}

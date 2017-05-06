@@ -1,0 +1,16 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Hofferber",
+  "dependencies": {
+    "express": "~4.12.2",
+    "ramda": "^0.17.1",
+    "rethinkdbdash": "^2.2.18",
+    "stack-trace": "0.0.9"
+  }
+}

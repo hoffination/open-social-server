@@ -1,0 +1,22 @@
+# top-most EditorConfig file
+root = true
+
+# 2 space indentation and tab width
+[*.{js, css, html}]
+indent_style = space
+indent_size = 2
+tab_width = 2
+
+[*]
+insert_final_newline = true
+
+[*.js]
+continuation_indent_size = 2
+spaces_around_brackets = none
+curly_bracket_next_line = false
+quote_type = single
+indent_brace_style = K&R
+
+# Was unable to get spaces around the first bracket to not apply
+# that will need to be done manually in your WebStorm configuration
+#   - GET RID OF Code Style | JavaScript | SPACES | IN FUNCTION EXPRESSION

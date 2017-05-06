@@ -1,0 +1,14 @@
+{
+  "name": "notify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Hofferber",
+  "dependencies": {
+    "node-gcm": "^0.14.0",
+    "stack-trace": "0.0.9"
+  }
+}
