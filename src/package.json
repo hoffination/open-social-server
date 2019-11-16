@@ -9,7 +9,7 @@
   "author": "Ben Hofferber",
   "dependencies": {
     "async": "^1.5.2",
-    "debug": "~2.1.1",
+    "debug": "~4.1.1",
     "express": "~4.12.2",
     "jwt-simple": "^0.3.0",
     "rethinkdb": "^2.3.0",
